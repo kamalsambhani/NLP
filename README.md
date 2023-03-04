@@ -12,3 +12,5 @@ Dataset - SMSSpamCollection.tsv
 
 *5-Building Machine Learning Classifiers*
 
+*5.1-Model Selection*
+
