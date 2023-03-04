@@ -2,7 +2,7 @@
 
 Dataset - SMSSpamCollection.tsv
 
-*1-NLP Basic pre processing
+*1-NLP Basic pre processing*
 
 *2-NLP Stamming and Lemmatizing
 
